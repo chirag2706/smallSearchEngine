@@ -1,0 +1,12 @@
+.video-item{
+    display:flex !important;
+    align-items:center !important;
+    cursor: pointer;
+}
+.ui.list .list>.item .header, .ui.list>.item .header{
+    margin:30px;
+}
+.video-item img{
+    max-width:200px;
+    max-height: 200px;
+}
